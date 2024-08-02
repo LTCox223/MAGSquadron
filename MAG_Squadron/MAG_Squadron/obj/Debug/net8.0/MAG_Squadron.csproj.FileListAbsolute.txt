@@ -1,0 +1,5 @@
+G:\C# Projects\MAG_Squadron\MAG_Squadron\obj\Debug\net8.0\MAG_Squadron.csproj.AssemblyReference.cache
+G:\C# Projects\MAG_Squadron\MAG_Squadron\obj\Debug\net8.0\MAG_Squadron.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Projects\MAG_Squadron\MAG_Squadron\obj\Debug\net8.0\MAG_Squadron.AssemblyInfoInputs.cache
+G:\C# Projects\MAG_Squadron\MAG_Squadron\obj\Debug\net8.0\MAG_Squadron.AssemblyInfo.cs
+G:\C# Projects\MAG_Squadron\MAG_Squadron\obj\Debug\net8.0\MAG_Squadron.csproj.CoreCompileInputs.cache

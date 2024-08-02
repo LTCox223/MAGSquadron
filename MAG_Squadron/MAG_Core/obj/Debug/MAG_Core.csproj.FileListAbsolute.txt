@@ -1,0 +1,7 @@
+G:\C# Projects\MAG_Squadron\MAG_Core\bin\Debug\MAG_Core.exe.config
+G:\C# Projects\MAG_Squadron\MAG_Core\bin\Debug\MAG_Core.exe
+G:\C# Projects\MAG_Squadron\MAG_Core\bin\Debug\MAG_Core.pdb
+G:\C# Projects\MAG_Squadron\MAG_Core\obj\Debug\MAG_Core.csproj.AssemblyReference.cache
+G:\C# Projects\MAG_Squadron\MAG_Core\obj\Debug\MAG_Core.csproj.CoreCompileInputs.cache
+G:\C# Projects\MAG_Squadron\MAG_Core\obj\Debug\MAG_Core.exe
+G:\C# Projects\MAG_Squadron\MAG_Core\obj\Debug\MAG_Core.pdb

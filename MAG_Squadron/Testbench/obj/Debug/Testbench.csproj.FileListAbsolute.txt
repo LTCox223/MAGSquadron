@@ -1,0 +1,11 @@
+G:\C# Projects\MAG_Squadron\Testbench\obj\Debug\Testbench.csproj.AssemblyReference.cache
+G:\C# Projects\MAG_Squadron\Testbench\obj\Debug\Testbench.csproj.CoreCompileInputs.cache
+G:\C# Projects\MAG_Squadron\Testbench\bin\Debug\Testbench.exe.config
+G:\C# Projects\MAG_Squadron\Testbench\bin\Debug\Testbench.exe
+G:\C# Projects\MAG_Squadron\Testbench\bin\Debug\Testbench.pdb
+G:\C# Projects\MAG_Squadron\Testbench\bin\Debug\MAG_Core.exe
+G:\C# Projects\MAG_Squadron\Testbench\bin\Debug\MAG_Core.pdb
+G:\C# Projects\MAG_Squadron\Testbench\bin\Debug\MAG_Core.exe.config
+G:\C# Projects\MAG_Squadron\Testbench\obj\Debug\Testbench.csproj.CopyComplete
+G:\C# Projects\MAG_Squadron\Testbench\obj\Debug\Testbench.exe
+G:\C# Projects\MAG_Squadron\Testbench\obj\Debug\Testbench.pdb
